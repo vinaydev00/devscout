@@ -1,4 +1,4 @@
-# DevScout 🚀
+# DevScout 🚀 >  Status: Core functionality complete. Deployment in progress.
 
 **Instant GitHub Developer Credibility Report Generator**
 
